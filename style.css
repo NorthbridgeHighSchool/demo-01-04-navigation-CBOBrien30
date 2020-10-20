@@ -1,18 +1,28 @@
 html {
   background-color: rgb(147, 201, 236);
-  border: 4px double rgb(13, 162, 207);
-  font-style: italic;
 }
 h1 {
   color: rgb(13, 80, 143);
   background-color: rgb(206, 235, 236);
-  border: 6px solid rgb(128, 194, 248)
+  border: 6px double rgb(128, 194, 248);
+  font-size: 24pt;
+  font-style: italic
 }
 h2 {
-  color: rgb(209, 70, 236);
-  font-variant: small-caps
+  color: rgb(141, 36, 161);
+  font-variant: small-caps;
+  font-size: 20pt;
+  background-color: rgb(213, 196, 240);
+  border: 3px solid rgb(158, 81, 230)
  }
  img {
    border: 8px dotted rgb(6, 37, 104);
    padding: 12px
+ }
+ nav{
+   font-size: 14pt;
+   color: rgb(151, 67, 230);
+   background-color: rgb(206, 235, 236);
+   border: 6px double rgb(128, 194, 248)
+
  }
